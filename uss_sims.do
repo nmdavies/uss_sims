@@ -3,6 +3,7 @@
 //The two biggest limitations of this simulation are a) it assumes independence of returns for equities and bonds
 //and b) it assumes normally distributed returns. Both assumptions are implausible, but this simulation gives 
 //an idea of the sort of model the USS is likely to use to model risk in their stochastic analysis.  
+//The estimated returns parameter values are taken from Jorda et al. (2019). https://economics.harvard.edu/files/economics/files/ms28533.pdf
 
 
 clear
